@@ -1,28 +1,40 @@
-name: A Test Site
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.88728
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0.4498208
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.7224597814492881
+  brandStrength: 0.07379977847449481
+  rhythmicContrast: 0.6527247305493802
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.07379977847449481
   lightness: 0.6447614314965904
-  saturation: 0.7224597814492881
-  rhythmicContrast: 0.6527247305493802
-purpose: []
+typography_spectrum: 0.8763441
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Greyweathers Press
