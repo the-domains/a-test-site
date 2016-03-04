@@ -1,8 +1,7 @@
-layout_spectrum: 0.4498208
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Greyweathers Press
+favicon: null
+layout_spectrum: 0.75128
+typography_spectrum: 0.8763441
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7224597814492881
-  brandStrength: 0.07379977847449481
-  rhythmicContrast: 0.6527247305493802
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+  brandStrength: 0.07379977847449481
   lightness: 0.6447614314965904
-typography_spectrum: 0.8763441
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Greyweathers Press
+  saturation: 0.7224597814492881
+  rhythmicContrast: 0.6527247305493802
+purpose: []
