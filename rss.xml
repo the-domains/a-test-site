@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[A Test Site]]></title>
         <description><![CDATA[A Test Site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/a-test-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 19:39:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 19:55:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/a-test-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[True]]></title>
+            <description><![CDATA[<article><h1>True</h1><p>Los Angeles-based designer Emily McDowell was diagnosed with Stage 3 Hodgkin's lymphoma at age 24, enduring nine months of chemo and radiation before going into remission. "The most difficult part of my illness wasn't losing my hair, or being erroneously called 'sir' by Starbucks baristas, or sickness from chemo," McDowell writes on her website.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/398ecbc303793275cd7a2440bf8293830e9f2d10.jpg"></article>]]></description>
+            <link>http://www.slate.com/blogs/the_eye/2015/05/06/empathy_cards_by_emily_mcdowell_are_greeting_cards_designed_for_cancer_patients.html</link>
+            <guid isPermaLink="false">afa7839e-8fd6-4a63-bb39-dc2b247ceff4</guid>
+            <pubDate>Fri, 04 Mar 2016 19:54:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e1c178f-4bd7-4ff3-b6d7-d65da4dd1619.jpg">]]></description>
-            <link>undefined386da51e-5a57-4350-ac28-c8902a423df6/index.html</link>
+            <link>https://thegrid.ai/a-test-site/386da51e-5a57-4350-ac28-c8902a423df6/index.html</link>
             <guid isPermaLink="false">386da51e-5a57-4350-ac28-c8902a423df6</guid>
             <pubDate>Fri, 04 Mar 2016 19:38:08 GMT</pubDate>
         </item>
